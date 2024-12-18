@@ -104,7 +104,7 @@ Before running the project, ensure you have the following installed:
 
 2. Install dependencies:
    ```bash
-   npm install
+   npm i
    ```
    Or if using Yarn:
    ```bash
@@ -119,7 +119,7 @@ Before running the project, ensure you have the following installed:
 
 4. Start the React development server:
    ```bash
-   npm start
+   npm run dev
    ```
    Or with Yarn:
    ```bash
@@ -136,7 +136,7 @@ Before running the project, ensure you have the following installed:
    ```
 2. Start the **React server** (frontend):
    ```bash
-   npm start
+   npm run dev
    ```
 3. Open the React application in your browser:
    - **Frontend**: http://localhost:3000
